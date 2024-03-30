@@ -1,5 +1,6 @@
 /*
-Execution of the alghorit mergesort. This code require two lines to test, the first is to get the quantity of numbers to be sorted
+Execution of the alghorit mergesort. This code require two lines to test, the first is to get the quantity of numbers to be sorted.
+The output is the numbers sorted and how many steps were necessary.
 */
 
 #include "mergesort.h"
