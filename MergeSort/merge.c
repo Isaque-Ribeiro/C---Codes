@@ -1,7 +1,6 @@
 // function's implementaion
 
-#include <stdio.h>
-#include <stdlib.h>
+#include "merge.h"
 
 
 struct item{
