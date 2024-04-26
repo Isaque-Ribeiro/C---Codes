@@ -1,6 +1,6 @@
 // function's implementaion
 
-#include "merge.h"
+#include "mergesort.h"
 
 
 struct item{
